@@ -7,3 +7,7 @@ img{
     /* background:cover;
     background-repeat: no-repeat; */
 }
+.float{
+    display: flex;
+    
+}
