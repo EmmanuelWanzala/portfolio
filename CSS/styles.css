@@ -21,6 +21,15 @@ img{
     padding-right: 50px;
     padding-bottom: 60px;
 }
-.one{
+sectionA .one{
     padding-top:70px;
+}
+
+
+sectionB{
+    display: flex;
+    justify-content: space-between;
+}
+sectionB{
+    
 }
