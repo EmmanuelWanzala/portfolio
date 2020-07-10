@@ -7,7 +7,16 @@ img{
     /* background:cover;
     background-repeat: no-repeat; */
 }
-.float{
+/* sectionA{
     display: flex;
-    
+    justify-content: space-around;
+    padding: 40px;
+    justify-content: space-evenly;
+}
+img{
+    padding-right: 40px;
+} */
+img{
+    float: left;
+    padding-right: 40px;
 }
