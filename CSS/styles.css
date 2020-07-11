@@ -2,8 +2,8 @@ h1{
     color: darkblue;
 }
 img{
-    width: 40%;
-    height: 40%;
+    width: 60%;
+    height: 70%;
     /* background:cover;
     background-repeat: no-repeat; */
 }
@@ -16,20 +16,31 @@ img{
 img{
     padding-right: 40px;
 } */
-img{
-    float: left;
-    padding-right: 50px;
-    padding-bottom: 60px;
-}
-sectionA .one{
-    padding-top:70px;
-}
 
+sectionA .one{
+    padding-top: 0;
+}
+sectionA{
+    padding-bottom:60px;
+}
 
 sectionB{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
-sectionB{
-    
+.hobbies{
+    padding-left: 100px;
+}
+
+
+/* sectionB .one{
+    /* float: bottom; */
+    /* float: left;
+    margin-left: 0px;
+    padding-right: 10px;
+    justify-content: space-around;
+} */ 
+sectionA {
+    display: flex;
+   padding:20px
 }
