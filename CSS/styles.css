@@ -1,5 +1,7 @@
 h1{
     color: darkblue;
+    display: flex;
+    justify-content: center;
 }
 img{
     width: 100%;
@@ -51,4 +53,20 @@ sectionA .two{
 }
 sectionB{
     background-color: yellow;
+}
+sectionA a:hover{
+    background-color: lime;
+}
+/* body{
+    background-color:steelblue;
+} */
+@media screen and (min-width:360px) and (max-width:700px){
+    body {
+        background-color: burlywood;
+    }
+}
+@media screen and (min-width :701px){
+    body{
+        background-color: cyan;
+    }
 }
