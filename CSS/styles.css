@@ -19,9 +19,10 @@ img{
 
 sectionA .one{
     padding-top: 0;
+    padding-right: 0px;
 }
 sectionA{
-    padding-bottom:90px;
+    padding-bottom:0px;
 }
 
 sectionB{
@@ -31,20 +32,23 @@ sectionB{
 .hobbies{
     padding-left: 100px;
 }
-
-
-/* sectionB .one{
-    /* float: bottom; */
-    /* float: left;
-    margin-left: 0px;
-    padding-right: 10px;
-    justify-content: space-around;
-} */ 
+sectionB .one{
+     background-color: springgreen;
+}  
 sectionA {
     display: flex;
 }
-   /* padding:20px
-} */
+
 sectionA .one{
     padding-right: 10px;
+    background-color: peru;
+    color: powderblue;
+}
+sectionA .two{
+     padding-left: 30px;
+     background-color: royalblue;
+     color: skyblue;
+}
+sectionB{
+    background-color: yellow;
 }
