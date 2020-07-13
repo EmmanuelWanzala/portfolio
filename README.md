@@ -35,6 +35,9 @@ $code .(for Visual Studio Code) and  $atom .(for atom)
 
 *Raise a pull request
 
-### License
+### Link to live site on GitHub-pages
+https://emmanuelwanzala.github.io/portfolio/
 
+
+### License
 [MIT](https://spdx.org/licenses/MIT.html)
