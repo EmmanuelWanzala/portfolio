@@ -36,7 +36,7 @@ $code .(for Visual Studio Code) and  $atom .(for atom)
 *Raise a pull request
 
 ### Link to live site on GitHub-pages
-https://emmanuelwanzala.github.io/portfolio/
+
 
 
 ### License
